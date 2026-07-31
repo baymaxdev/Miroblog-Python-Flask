@@ -8,4 +8,4 @@ def index():
 
 @app.route('/home')
 def home():
-    return "Welcome to the Home Page!"
+    return "Welcome to the Home Page!"  

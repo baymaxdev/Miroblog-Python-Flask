@@ -8,8 +8,4 @@ def index():
 
 @app.route('/home')
 def home():
-    return "Welcome to the Home Page!"
-    
-@app.route('/boom')
-def boom()
-    return "Boom! You Have Exploded"
+    return "Welcome to the Home Page!"  
